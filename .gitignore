@@ -9,3 +9,4 @@ uploads/*
 .env.production
 __pycache__/
 *.pyc
+.venv/
